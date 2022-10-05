@@ -1,0 +1,14 @@
+#ifndef __INCLUDE_H_
+#define __INCLUDE_H_
+
+#include <stdio.h>
+#include <stdlib.h>
+
+#include "../includes/file_interact.h"
+#include "../includes/errors.h"
+#include "../includes/get_key.h"
+
+// clef definie pour les tests
+#define KEY "5t0a5q4J1dhlO8I8Cj0H7VhJYp9VSP89t4zjBiWtW6x0x0Z2EF0F5rEsKK0X05A3y85067FRc3mVKIuc720UOf9r87CkV0G10pmP22vm64PvM0l8eVz0IN964Vd1N8flXffqSGzpMDwer0t5Vt3YT77FxkTy4c3lF867S154xw4k03h74tW5b1508n927xw5mXh4ax7H7Ob5UWZ9ZKtP9897yWZLTvGQ1M2Mc5P5iUWoGBU56l0S0crg5gMfGJmTcbxPD2Na1rwr5IbKU6r59MkCu6osqf9j9belD1dhOWriv40y6ql1349W6ptGKd16X19xBByV4icLwQ853chTN6dM9kMGQZ1toH35g8w2Bzh9q0795VVE6uuPsQxLDfSPnGrMilAwA7WbCRJvTt6p1wMed1EWSX9gOQ0W6qr252WqK0Q84v6DD5KId2rvO7nlN4Ja1DL8mk7OHrP4l4r8DI7LE7RXuC2sjYinlAw522m7f8RBX8PV"
+
+#endif
