@@ -1,5 +1,7 @@
 #include "../includes/include.h"
 
+char *author = "Author:QDRDb3F1aW5z";
+
 int main(int argc, char **argv) {
 	fichier_t *files = NULL;
 	clef_t *key = NULL;
