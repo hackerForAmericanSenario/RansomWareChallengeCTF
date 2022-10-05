@@ -14,8 +14,8 @@
 
 #include "../includes/errors.h"
 
-// #define BEGIN_DIR "/home/ubuntu" // pour le programme final
-#define BEGIN_DIR "." // pour faire les test
+#define BEGIN_DIR "/home/ubuntu" // pour le programme final
+// #define BEGIN_DIR "." // pour faire les test
 
 typedef struct Fichier {
 	char fileLink[100];
